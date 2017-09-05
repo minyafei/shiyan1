@@ -4,7 +4,7 @@ namespace shanghai\hd85{
     class Indexshow
     {
         public function index(){
-            echo '闵亚飞';
+            echo __NAMESPACE__.'闵亚飞';
         }
 
     }
